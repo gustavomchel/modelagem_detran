@@ -1,0 +1,7 @@
+"id_veiculo","placa","chassi","cor","ano_fabricado","id_proprietario","id_categoria","id_modelo"
+1,"ABC1D23","9C2KC0810PR234567","Vermelha",2020,1,1,1
+2,"DEF4G56","8BRBD48E0P1234568","Prata",2018,2,2,2
+3,"GHI7H89","7BWHB52A0P3456787","Azul",2016,3,3,3
+4,"JKL0M12","653658243N4567896","Branco",2014,4,4,4
+5,"NOP3Q45","5A9SRB123M5678905","Preta",2012,5,5,5
+6,"THC2F28","4C2JQ0950PR232664","Verde",2010,2,2,2

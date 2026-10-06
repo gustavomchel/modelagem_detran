@@ -1,0 +1,6 @@
+"id_proprietario","cpf","nome","endereco","bairro","cidade","estado","sexo","data_nascimento","idade"
+1,"25874136945","Maicon Oliveira","Quadra 1 Conjunto A","Samambaia Sul","Samambaia","Distrito Federal","M","2000-03-15",26
+2,"95135785246","Mariana Fontes","Quadra 2 Conjunto B","Vila São José","Brazlândia","Distrito Federal","F","2002-01-01",24
+3,"15975365428","Pedro Santos","Quadra 3 Conjunto C","Tradicional","Guarulhos","São Paulo","M","2004-01-01",22
+4,"85214796364","Joana Alves","Quadra 4 Conjunto D","Sul","Brazlândia","Distrito Federal","F","2000-01-01",26
+5,"25896365419","Marta Costa","Quadra 5 Conjunto E","Santa Tereza","Rio de Janeiro","Rio de Janeiro","F","2001-01-01",25
